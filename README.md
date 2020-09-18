@@ -1,4 +1,5 @@
 # awesome-android-security ![awesome](https://awesome.re/badge.svg)
+![Screenshot](img/androidsec.jpg)
 
  
 
@@ -197,108 +198,5 @@
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
     
    
-## iOS
-
-### General - Blogs, Papers, How to's
-
-* [iOS Security](https://www.cse.wustl.edu/~jain/cse571-14/ftp/ios_security/index.html)
-* [Basic iOS Apps Security Testing lab](https://medium.com/@ehsahil/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15)
-* [IOS Application security – Setting up a mobile pentesting platform](https://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref)
-* [Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
-* [IOS_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
-* [OWASP iOS Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06b-basic-security-testing)
-* [Dynamic analysis of iOS apps w/o Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
-* [iOS Application Injection](https://arjunbrar.com/post/ios-application-injection)
-* [Low-Hanging Apples: Hunting Credentials and Secrets in iOS Apps](https://spaceraccoon.dev/low-hanging-apples-hunting-credentials-and-secrets-in-ios-apps)
-* [Checkra1n Era - series](https://blog.digital-forensics.it/)
-* [BFU Extraction: Forensic Analysis of Locked and Disabled iPhones](https://blog.elcomsoft.com/2019/12/bfu-extraction-forensic-analysis-of-locked-and-disabled-iphones/)
-* [HowTo-decrypt-Signal.sqlite-for-IOS](https://github.com/Magpol/HowTo-decrypt-Signal.sqlite-for-IOS)
-* [Can I Jailbreak?](https://canijailbreak.com/)
-* [How to Extract Screen Time Passcodes and Voice Memos from iCloud](https://blog.elcomsoft.com/2019/10/how-to-extract-screen-time-passcodes-and-voice-memos-from-icloud/)
-* [Reverse Engineering Swift Apps](https://github.com/iOS-Reverse-Engineering-Dev/Swift-Apps-Reverse-Engineering/blob/master/Reverse%20Engineering%20Swift%20Applications.pdf)
-* [Mettle your iOS with FRIDA](https://sensepost.com/blog/2019/mettle-your-ios-with-frida/)
-* [A run-time approach for pentesting iOS applications](https://blog.securelayer7.net/a-run-time-approach-for-pen-testing-ios-applications-part-ii-objection-in-action/)
-* [iOS Internals vol 2](http://newosxbook.com/bonus/iBoot.pdf)
-* [Understanding usbmux and the iOS lockdown service](https://medium.com/@jon.gabilondo.angulo_7635/understanding-usbmux-and-the-ios-lockdown-service-7f2a1dfd07ae)
-* [A Deep Dive into iOS Code Signing](https://blog.umangis.me/a-deep-dive-into-ios-code-signing/)
-* [AirDoS: remotely render any nearby iPhone or iPad unusable](https://kishanbagaria.com/airdos/)
-* [How to access and traverse a #checkra1n jailbroken iPhone File system using SSH](https://aboutdfir.com/jailbreaking-checkra1n-configuration/)
-* [Deep dive into iOS Exploit chains found in the wild - Project Zero](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html)
-* [The Fully Remote Attack Surface of the iPhone - Project Zero](https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html)
-
-
-### Books
-
-* [Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It](https://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746)
-* [iOS Penetration Testing](https://www.apress.com/gp/book/9781484223543)
-* [iOS App Security, Penetration Testing, and Development](https://www.allysonomalley.com/)
-* [IOS Hacker's Handbook](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123)
-* [Hacking iOS Applications a detailed testing guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
-* [Develop iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-* [iOS Programming Cookbook](https://www.packtpub.com/in/application-development/ios-programming-cookbook)
-
-### Courses
-
-* [Pentesting iOS Applications](https://www.pentesteracademy.com/course?id=2)
-* [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps)
-* [App Design and Development for iOS](https://www.coursera.org/learn/ios-app-design-development)
-
-### Tools
-
-* [Cydia Impactor](http://www.cydiaimpactor.com/)
-* [checkra1n jailbreak](https://checkra.in/)
-* [idb - iOS App Security Assessment Tool](https://www.idbtool.com/)
-* [Frida](https://github.com/frida/frida/releases)
-* [Objection - mobile exploration toolkit by Frida](https://github.com/sensepost/objection)
-* [Bfinject](https://github.com/BishopFox/bfinject)
-* [iFunbox](http://www.i-funbox.com/)
-* [Libimobiledevice - library to communicate with the services of the Apple ios devices](https://www.libimobiledevice.org/)
-* [iRET (iOS Reverse Engineering Toolkit)](https://www.veracode.com/sites/default/files/Resources/Tools/iRETTool.zip) - includes oTool, dumpDecrypted, SQLite, Theos, Keychain_dumper, Plutil
-* [Myriam iOS](https://github.com/GeoSn0w/Myriam)
-* [iWep Pro - wireless suite of useful applications used to turn your iOS device into a wireless network diagnostic tool](https://itunes.apple.com/us/app/iweppro/id578135585?mt=8)
-* [Burp Suite](https://portswigger.net/burp/communitydownload)
-* [Cycript](https://cydia.saurik.com/api/latest/3)
-* [needle - The iOS Security Testing Framework](https://github.com/FSecureLABS/needle)
-* [iLEAPP - iOS Logs, Events, And Preferences Parser](https://github.com/abrignoni/iLEAPP)
-* [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
-* [decrypt0r - automatically download and decrypt SecureRom stuff](https://github.com/shinvou/decrypt0r)
-* [iOS Security Suite - an advanced and easy-to-use platform security & anti-tampering library](https://github.com/securing/IOSSecuritySuite)
-
-### Labs
-
-* [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
-* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
-* [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
-* [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
-* [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
-
-### Talks
-
-* [Behind the Scenes of iOS Security](https://www.youtube.com/watch?v=BLGFriOKz6U)
-* [Modern iOS Application Security](https://www.infoq.com/presentations/ios-security/)
-* [Demystifying the Secure Enclave Processor](https://www.youtube.com/watch?v=7UNeUT_sRos)
-* [HackPac Hacking Pointer Authentication in iOS User Space](https://www.youtube.com/watch?v=DJFxhShJ6Ns)
-* [Analyzing and Attacking Apple Kernel Drivers](https://www.youtube.com/watch?v=07VqX4bbXTI)
-* [Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox](https://www.youtube.com/watch?v=bP5VP7vLLKo)
-* [Reverse Engineering iOS Mobile Apps](https://www.bugcrowd.com/resources/webinars/reverse-engineering-ios-mobile-apps/)
-* [iOS 10 Kernel Heap Revisited](https://www.youtube.com/watch?v=DNW6Im31lQo)
-* [KTRW: The journey to build a debuggable iPhone](https://media.ccc.de/v/36c3-10806-ktrw_the_journey_to_build_a_debuggable_iphone)
-* [The One Weird Trick SecureROM Hates](https://media.ccc.de/v/36c3-11238-the_one_weird_trick_securerom_hates)
-* [Tales of old: untethering iOS 11-Spoiler: Apple is bad at patching](https://media.ccc.de/v/36c3-11034-tales_of_old_untethering_ios_11)
-* [Messenger Hacking: Remotely Compromising an iPhone through iMessage](https://media.ccc.de/v/36c3-10497-messenger_hacking_remotely_compromising_an_iphone_through_imessage)
-* [Recreating An iOS 0-Day Jailbreak Out Of Apple's Security Updates](https://www.youtube.com/watch?v=p512McKXukU)
-* [Reverse Engineering the iOS Simulator’s SpringBoard](https://vimeo.com/231806976)
-* [Attacking iPhone XS Max](https://www.youtube.com/watch?v=8cOx7vfszZU&feature=youtu.be)
-
-
-
-### Misc.
-  
-* [Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
-* [iOS-Security-Guides](https://github.com/0xmachos/iOS-Security-Guides)
-* [osx-security-awesome - OSX and iOS related security tools](https://github.com/ashishb/osx-and-ios-security-awesome)    
-* [Trust in Apple's Secret Garden: Exploring & Reversing Apple's Continuity Protocol-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Yen-Trust-In-Apples-Secret-Garden-Exploring-Reversing-Apples-Continuity-Protocol-3.pdf)
-* [Apple Platform Security](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf)
-* [Mobile security, forensics & malware analysis with Santoku Linux](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/viaForensics-AppSecUSA-Nov-2013.pdf)
 
     
