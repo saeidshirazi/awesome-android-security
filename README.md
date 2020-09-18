@@ -1,4 +1,4 @@
-# awesome-android-security ![awesome](https://awesome.re/badge.svg)
+# Awesome-Android-Security ![awesome](https://awesome.re/badge.svg)
 ![Screenshot](img/androidsec.jpg)
 
  
@@ -14,7 +14,6 @@
     * [Dynamic Analysis](#Dynamic-Analysis)
     * [Online APK Analyzers](#Online-APK-Analyzers)
     
-
 * [Books](#Books)
 * [Talks](#Talks)
 * [Misc](#Misc)
