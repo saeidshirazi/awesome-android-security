@@ -4,6 +4,21 @@
  
 
 ## Android
+## Table of Contents
+
+* [Papers](#papers)
+* [Courses](#courses)
+* [Videos](#videos)
+* [Tools](#tools)
+    * [Static Analysis](#Static-Analysis)
+    * [Dynamic Analysis](#Dynamic-Analysis)
+    * [Online APK Analyzers](#Online-APK-Analyzers)
+    
+
+* [Books](#Books)
+* [Talks](#Talks)
+* [Misc](#Misc)
+
 
 ### General - Blogs, Papers, How To's
 
@@ -117,7 +132,7 @@
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
         
-#### Android Online APK Analyzers
+#### Online APK Analyzers
 
 * [Oversecured](https://oversecured.com/) - A static vulnerability scanner for Android apps (APK files) containing 90+ vulnerability categories
 * [Android Observatory APK Scan](https://androidobservatory.org/upload)
@@ -180,7 +195,7 @@
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
-### Misc.
+### Misc
     
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
