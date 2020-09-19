@@ -94,8 +94,6 @@
 * [Smali/Baksmali – Assembler/Disassembler for the dex format](https://github.com/JesusFreke/smali)
 * [Smali-CFGs – Smali Control Flow Graph’s](https://github.com/EugenioDelfa/Smali-CFGs)
 * [SPARTA – Static Program Analysis for Reliable Trusted Apps](https://www.cs.washington.edu/sparta)
-* [Thresher – To check heap reachability properties](https://plv.colorado.edu/projects/thresher/)
-* [Vector Attack Scanner – To search vulnerable points to attack](https://github.com/Sukelluskello/VectorAttackScanner)
 * [Gradle Static Analysis Plugin](https://github.com/novoda/gradle-static-analysis-plugin)
 * [Checkstyle – A tool for checking Java source code](https://github.com/checkstyle/checkstyle)
 * [PMD – An extensible multilanguage static code analyzer](https://github.com/pmd/pmd)
