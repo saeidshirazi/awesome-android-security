@@ -86,7 +86,6 @@
 
 * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
 * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
-* [APK Inspector – A Powerful GUI Tool](https://github.com/honeynet/apkinspector/)
 * [Droid Hunter – Android application vulnerability analysis and Android pentest tool](https://github.com/hahwul/droid-hunter)
 * [Error Prone – Static Analysis Tool](https://github.com/google/error-prone)
 * [Findbugs – Find Bugs in Java Programs](http://findbugs.sourceforge.net/downloads.html)
