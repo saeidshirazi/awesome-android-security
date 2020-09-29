@@ -3,25 +3,9 @@
 
  
 
-## Android
+
 ## Table of Contents
-
-
-- [General - Blogs, Papers, How To's](#general---blogs-papers-how-tos)
-- [Books](#books)
-- [Courses](#courses)
-- [Tools](#tools)
-    - [Static Analysis](#static-analysis)
-    - [Dynamic Analysis](#dynamic-analysis)
-    - [Online APK Analyzers](#online-apk-analyzers)
-    - [Online APK Decompiler](#online-apk-decompiler)
-- [Labs](#labs)
-- [Talks](#talks)
-- [Misc](#misc)
-    
-* [Books](#Books)
-* [Talks](#Talks)
-* [Misc](#Misc)
+todolist
 
 
 ### General - Blogs, Papers, How To's
