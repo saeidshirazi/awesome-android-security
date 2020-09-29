@@ -150,7 +150,7 @@ todolist
 * [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
 * [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 * [Purposefully Insecure and Vulnerable Android Application (PIIVA)](https://github.com/htbridge/pivaa)
-* [Sieve app](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+* [Sieve app(An android application which exploits through android components)](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
 * [DodoVulnerableBank](https://github.com/CSPF-Founder/DodoVulnerableBank)
 * [Digitalbank](https://github.com/CyberScions/Digitalbank)
 * [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
