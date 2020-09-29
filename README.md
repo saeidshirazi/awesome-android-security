@@ -110,8 +110,7 @@
 #### Dynamic Analysis
 
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
-* [Drozer](https://www.mwrinfosecurity.com/products/drozer/)
-* [Marvin - Analyzes Android applications and allows tracking of an app](https://github.com/programa-stic/marvin-django)
+* [Drozer](https://github.com/FSecureLABS/drozer)
 * [Inspeckage](https://github.com/ac-pm/Inspeckage)
 * [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid)
 * [AndroL4b - Android security virtual machine based on ubuntu-mate](https://github.com/sh4hin/Androl4b)
