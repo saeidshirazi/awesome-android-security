@@ -6,13 +6,20 @@
 ## Android
 ## Table of Contents
 
-* [Papers](#papers)
-* [Courses](#courses)
-* [Videos](#videos)
-* [Tools](#tools)
-    * [Static Analysis](#Static-Analysis)
-    * [Dynamic Analysis](#Dynamic-Analysis)
-    * [Online APK Analyzers](#Online-APK-Analyzers)
+- [Awesome-Android-Security !awesome](#awesome-android-security-img-srchttpsawesomerebadgesvg-altawesome)
+  - [Android](#android)
+  - [Table of Contents](#table-of-contents)
+    - [General - Blogs, Papers, How To's](#general---blogs-papers-how-tos)
+    - [Books](#books)
+    - [Courses](#courses)
+    - [Tools](#tools)
+      - [Static Analysis](#static-analysis)
+      - [Dynamic Analysis](#dynamic-analysis)
+      - [Online APK Analyzers](#online-apk-analyzers)
+      - [Online APK Decompiler](#online-apk-decompiler)
+    - [Labs](#labs)
+    - [Talks](#talks)
+    - [Misc](#misc)
     
 * [Books](#Books)
 * [Talks](#Talks)
@@ -147,7 +154,8 @@
 * [Java  Decompiler APk](http://www.javadecompilers.com/apk)
 * [APK DECOMPILER APP](https://www.apkdecompilers.com/)
 * [DeAPK is an open-source, online APK decompiler ](https://deapk.vaibhavpandey.com/)
-* [.apk and .dex decompilation back to Java source code](http://www.decompiler.com/)
+* [apk and dex decompilation back to Java source code](http://www.decompiler.com/)
+* [APK Decompiler Tools](https://apk.tools/tools/apk-decompiler/alternateURL/)
 
 ### Labs
   
