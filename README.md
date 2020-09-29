@@ -84,6 +84,7 @@
      
 #### Static Analysis
 
+* [Statistical Deobfuscation for Android](http://apk-deguard.com/)
 * [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
 * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
 * [Androwarn – Yet Another Static Code Analyzer](https://github.com/maaaaz/androwarn/)
