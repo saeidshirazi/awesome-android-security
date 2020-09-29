@@ -123,13 +123,12 @@
 
 
         
-#### Online APK Analyzers
+#### Online APK Analyzers/Decompiler
 
 * [Oversecured](https://oversecured.com/) - A static vulnerability scanner for Android apps (APK files) containing 90+ vulnerability categories
 * [Android Observatory APK Scan](https://androidobservatory.org/upload)
 * [Android APK Decompiler](http://www.decompileandroid.com/)
 * [AndroTotal](http://andrototal.org/)
-* [NVISO ApkScan](https://apkscan.nviso.be/)
 * [VirusTotal](https://www.virustotal.com/#/home/upload)
 * [Scan Your APK](https://scanyourapk.com/)
 * [AVC Undroid](https://undroid.av-comparatives.org/index.php)
@@ -140,7 +139,9 @@
 * [TraceDroid](http://tracedroid.few.vu.nl/submit.php)
 * [Visual Threat](http://www.visualthreat.com/UIupload.action)
 * [App Critique](https://appcritique.boozallen.com/)
-        
+* [Jotti's malware scan](https://virusscan.jotti.org/)
+* [kaspersky scanner](https://opentip.kaspersky.com/)
+
 ### Labs
   
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
