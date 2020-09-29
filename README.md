@@ -146,7 +146,7 @@
 * [Java  Decompiler APk](http://www.javadecompilers.com/apk)
 * [APK DECOMPILER APP](https://www.apkdecompilers.com/)
 * [DeAPK is an open-source, online APK decompiler ](https://deapk.vaibhavpandey.com/)
-* [APK DECOMPILER APP](https://www.apkdecompilers.com/)
+* [.apk and .dex decompilation back to Java source code](http://www.decompiler.com/)
 
 ### Labs
   
