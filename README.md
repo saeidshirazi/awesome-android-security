@@ -109,9 +109,6 @@
       
 #### Dynamic Analysis
 
-* [AppAudit - A bare-metal analysis tool on Android devices](https://github.com/ucsb-seclab/baredroid)
-* [CuckooDroid - Extension of Cuckoo Sandbox the Open Source software](https://github.com/idanr1986/cuckoo-droid)
-* [DroidBox - Dynamic analysis of Android applications](https://code.google.com/p/droidbox/)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
 * [Drozer](https://www.mwrinfosecurity.com/products/drozer/)
 * [Marvin - Analyzes Android applications and allows tracking of an app](https://github.com/programa-stic/marvin-django)
