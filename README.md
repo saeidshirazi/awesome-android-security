@@ -6,20 +6,18 @@
 ## Android
 ## Table of Contents
 
-- [Awesome-Android-Security !awesome](#awesome-android-security-img-srchttpsawesomerebadgesvg-altawesome)
-  - [Android](#android)
-  - [Table of Contents](#table-of-contents)
-    - [General - Blogs, Papers, How To's](#general---blogs-papers-how-tos)
-    - [Books](#books)
-    - [Courses](#courses)
-    - [Tools](#tools)
-      - [Static Analysis](#static-analysis)
-      - [Dynamic Analysis](#dynamic-analysis)
-      - [Online APK Analyzers](#online-apk-analyzers)
-      - [Online APK Decompiler](#online-apk-decompiler)
-    - [Labs](#labs)
-    - [Talks](#talks)
-    - [Misc](#misc)
+
+- [General - Blogs, Papers, How To's](#general---blogs-papers-how-tos)
+- [Books](#books)
+- [Courses](#courses)
+- [Tools](#tools)
+    - [Static Analysis](#static-analysis)
+    - [Dynamic Analysis](#dynamic-analysis)
+    - [Online APK Analyzers](#online-apk-analyzers)
+    - [Online APK Decompiler](#online-apk-decompiler)
+- [Labs](#labs)
+- [Talks](#talks)
+- [Misc](#misc)
     
 * [Books](#Books)
 * [Talks](#Talks)
