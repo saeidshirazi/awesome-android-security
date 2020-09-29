@@ -91,6 +91,7 @@
      
 #### Static Analysis
 
+* [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
 * [DeGuard:Statistical Deobfuscation for Android](http://apk-deguard.com/)
 * [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
 * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
