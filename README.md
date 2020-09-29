@@ -163,7 +163,7 @@ todolist
 * [AndroL4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis](https://github.com/sh4hin/Androl4b)
 
   
-### Talks
+# Talks
   
 * [One Step Ahead of Cheaters -- Instrumenting Android Emulators](https://www.youtube.com/watch?v=L3AniAxp_G4)
 * [Vulnerable Out of the Box: An Evaluation of Android Carrier Devices](https://www.youtube.com/watch?v=R2brQvQeTvM)
@@ -179,7 +179,6 @@ todolist
 * [Unleashing D* on Android Kernel Drivers](https://www.youtube.com/watch?v=1XavjjmfZAY)
 * [The Smarts Behind Hacking Dumb Devices](https://www.youtube.com/watch?v=yU1BrY1ZB2o)
 * [Overview of common Android app vulnerabilities](https://www.bugcrowd.com/resources/webinars/overview-of-common-android-app-vulnerabilities/)
-* [Android Dev Summit 2019](https://developer.android.com/dev-summit)
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
