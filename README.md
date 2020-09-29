@@ -109,8 +109,6 @@
       
 #### Dynamic Analysis
 
-* [Android Hooker - Opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
-* [AppAudit - Online tool ( including an API) uses dynamic and static analysis](http://appaudit.io/)
 * [AppAudit - A bare-metal analysis tool on Android devices](https://github.com/ucsb-seclab/baredroid)
 * [CuckooDroid - Extension of Cuckoo Sandbox the Open Source software](https://github.com/idanr1986/cuckoo-droid)
 * [DroidBox - Dynamic analysis of Android applications](https://code.google.com/p/droidbox/)
