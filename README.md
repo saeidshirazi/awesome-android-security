@@ -117,7 +117,6 @@
 * [Cutter - Free and Open Source RE Platform powered by radare2](https://cutter.re/)
 * [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-* [CobraDroid - Custom build of the Android operating system geared specifically for application security ](https://thecobraden.com/projects/cobradroid/)
 * [Magisk v20.2 - Root & Universal Systemless Interface](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
