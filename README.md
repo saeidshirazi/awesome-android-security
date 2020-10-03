@@ -49,7 +49,7 @@ todolist
 * [Hands On Mobile API Security](https://hackernoon.com/hands-on-mobile-api-security-get-rid-of-client-secrets-a79f111b6844)
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
-* [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
+
 * 
 * 
  -->
@@ -190,8 +190,9 @@ todolist
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
-### Misc
-    
+# Misc
+
+* [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)    
 * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources/blob/master/README.md)
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [Android Penetration Testing Courses](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
