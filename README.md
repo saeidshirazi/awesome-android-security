@@ -8,9 +8,13 @@
 todolist
 
 
-### General - Blogs, Papers, How To's
+# How To's
+* [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
+* [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 
-* [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
+
+
+<!-- * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
 * [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
 * [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
 * [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
@@ -44,11 +48,11 @@ todolist
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
-* [Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
-* [Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
+* 
+ -->
 
     
-### Books
+# Books
 
  * [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
  * [Android Security Internals](https://www.oreilly.com/library/view/android-security-internals/9781457185496/)
@@ -60,7 +64,7 @@ todolist
  * [Android Security: Attacks and Defenses](https://www.crcpress.com/Android-Security-Attacks-and-Defenses/Misra-Dubey/p/book/9780367380182)
  * [Learning Penetration Testing For Android Devices](https://www.amazon.com/Learning-Penetration-Testing-Android-Devices-ebook/dp/B077L7SNG8)
  
-### Courses
+# Courses
  
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
 * [Mobile Application Security and Penetration Testing](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
