@@ -8,6 +8,9 @@
 todolist
 
 
+# Blog
+* [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
+
 # How To's
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 * [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
@@ -47,7 +50,6 @@ todolist
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 * [Android Malware Adventures](https://docs.google.com/presentation/d/1pYB522E71hXrp4m3fL3E3fnAaOIboJKqpbyE5gSsOes/edit)
-* [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * 
 * 
  -->
