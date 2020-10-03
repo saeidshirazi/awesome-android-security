@@ -67,7 +67,6 @@ todolist
  * [Android Security: Attacks and Defenses](https://www.crcpress.com/Android-Security-Attacks-and-Defenses/Misra-Dubey/p/book/9780367380182)
  * [Learning Penetration Testing For Android Devices](https://www.amazon.com/Learning-Penetration-Testing-Android-Devices-ebook/dp/B077L7SNG8)
 
- * [Android Pentration Testing(Persian)](https://www.youtube.com/watch?v=XqS_bA6XfNU&list=PLvVo-xqnJCI7rftDaiEtWFLXlkxN-1Nxn)
 
  
 # Courses
@@ -79,7 +78,7 @@ todolist
 * [Learning Android Malware Analysis](https://www.linkedin.com/learning/learning-android-malware-analysis)
 * [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 * [MASPT V2](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
-
+* [Android Pentration Testing(Persian)](https://www.youtube.com/watch?v=XqS_bA6XfNU&list=PLvVo-xqnJCI7rftDaiEtWFLXlkxN-1Nxn)
   
 # Tools
      
