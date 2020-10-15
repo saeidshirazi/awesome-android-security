@@ -4,9 +4,21 @@
  
 
 
-## Table of Contents
-todolist
-
+# Table of Contents
+- [Blog](#blog)
+- [How To's](#how-tos)
+- [Paper](#paper)
+- [Books](#books)
+- [Course](#course)
+- [Tools](#tools)
+  * [Static Analysis Tools](#Static-Analysis)
+  * [Dynamic Analysis Tools](#Dynamic-Analysis)
+  * [Online APK Analyzers](#Online-APK-Analyzers)
+  * [Online APK Decompiler](#Online-APK-Decompiler)
+- [Labs](#labs)
+- [Talks](#talks)
+- [Misc](#misc)
+    
 
 # Blog
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
@@ -71,7 +83,7 @@ todolist
 
 
  
-# Courses
+# Course
  
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
 * [Mobile Application Security and Penetration Testing](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
