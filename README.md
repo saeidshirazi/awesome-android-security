@@ -1,5 +1,5 @@
 # Awesome-Android-Security ![awesome](https://awesome.re/badge.svg)
-![Screenshot](img/androidsec.jpg)
+![Screenshot](img/androidsec.png)
 
  
 
