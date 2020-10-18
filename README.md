@@ -19,7 +19,7 @@
 - [Talks](#talks)
 - [Misc](#misc)
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
-
+- [Cheat Sheet](#Cheat-Sheet)
 # Blog
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
@@ -32,54 +32,31 @@
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 * [Security Testing for Android Cross Platform Application](https://3xpl01tc0d3r.blogspot.com/2019/09/security-testing-for-android-app-part1.html)
 * [Dive deep into Android Application Security](https://blog.0daylabs.com/2019/09/18/deep-dive-into-Android-security/)
-
+* [Pentesting Android Apps Using Frida](https://www.notsosecure.com/pentesting-android-apps-using-frida/)
+* [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+* [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
+* [Android Security Guidelines](https://developer.box.com/en/guides/security/)
+* [Android WebView Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
+* [OWASP Mobile Top 10](https://www.owasp.org/index.php/OWASP_Mobile_Top_10)
+* [Practical Android Phone Forensics](https://resources.infosecinstitute.com/practical-android-phone-forensics/)
+* [Mobile Pentesting With Frida](https://drive.google.com/file/d/1JccmMLi6YTnyRrp_rk6vzKrUX3oXK_Yw/view)
+* [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
 
 # How To's
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 * [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 * [How To Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
 * [How To Secure an Android Device](https://source.android.com/security)
-
+* [Android Root Detection Bypass Using Objection and Frida Scripts](https://medium.com/@GowthamR1/android-root-detection-bypass-using-objection-and-frida-scripts-d681d30659a7)
+* [Root Detection Bypass By Manual Code Manipulation.](https://medium.com/@sarang6489/root-detection-bypass-by-manual-code-manipulation-5478858f4ad1)
+* [Magisk Systemless Root - Detection and Remediation](https://www.mobileiron.com/en/blog/magisk-android-rooting)
+* [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 
 # Paper
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
-
-
-<!-- 
-
-
-
-
-
-
-
-
-* [Pentesting Android Apps Using Frida](https://www.notsosecure.com/pentesting-android-apps-using-frida/)
-* [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
-* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
-* [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
-* [Android Security Guidelines](https://developer.box.com/en/guides/security/)
-* [Android WebView Vulnerabilities](https://pentestlab.blog/2017/02/12/android-webview-vulnerabilities/)
-* [OWASP Mobile Top 10](https://www.owasp.org/index.php/OWASP_Mobile_Top_10)
-* [Practical Android Phone Forensics](https://resources.infosecinstitute.com/practical-android-phone-forensics/)
-* [Mobile Reverse Engineering Unleashed](http://www.vantagepoint.sg/blog/83-mobile-reverse-engineering-unleashed)
-* [Android Root Detection Bypass Using Objection and Frida Scripts](https://medium.com/@GowthamR1/android-root-detection-bypass-using-objection-and-frida-scripts-d681d30659a7)
-* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
-* [Root Detection Bypass By Manual Code Manipulation.](https://medium.com/@sarang6489/root-detection-bypass-by-manual-code-manipulation-5478858f4ad1)
-* [Application and Network Usage in Android](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1528491463.pdf)
 * [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
-* [Mobile Pentesting With Frida](https://drive.google.com/file/d/1JccmMLi6YTnyRrp_rk6vzKrUX3oXK_Yw/view)
-* [Magisk Systemless Root - Detection and Remediation](https://www.mobileiron.com/en/blog/magisk-android-rooting)
 
-
-* [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
-* [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
-
-* 
-* 
- -->
-
-    
+   
 # Books
 
  * [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
@@ -110,6 +87,8 @@
 #### Static Analysis
 
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
+* [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
+
 * [DeGuard:Statistical Deobfuscation for Android](http://apk-deguard.com/)
 * [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
 * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
@@ -239,3 +218,6 @@
    
 # Bug Bounty & Writeup
     
+
+# Cheat Sheet 
+* [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
