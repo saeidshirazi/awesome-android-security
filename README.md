@@ -18,7 +18,7 @@
 - [Labs](#labs)
 - [Talks](#talks)
 - [Misc](#misc)
-    
+- [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 
 # Blog
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
@@ -26,11 +26,20 @@
 * [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
 * [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
 * [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
+* [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
+* [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
+* [An Android Security tips](https://developer.android.com/training/articles/security-tips)
+* [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+* [Security Testing for Android Cross Platform Application](https://3xpl01tc0d3r.blogspot.com/2019/09/security-testing-for-android-app-part1.html)
+* [Dive deep into Android Application Security](https://blog.0daylabs.com/2019/09/18/deep-dive-into-Android-security/)
+
 
 # How To's
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 * [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 * [How To Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
+* [How To Secure an Android Device](https://source.android.com/security)
+
 
 # Paper
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
@@ -40,13 +49,11 @@
 
 
 
-* [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
-* [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
-* [Secure an Android Device](https://source.android.com/security)
-* [Security tips](https://developer.android.com/training/articles/security-tips)
-* [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
-* [Security Testing for Android Cross Platform Application](https://3xpl01tc0d3r.blogspot.com/2019/09/security-testing-for-android-app-part1.html)
-* [Dive deep into Android Application Security](https://blog.0daylabs.com/2019/09/18/deep-dive-into-Android-security/)
+
+
+
+
+
 * [Pentesting Android Apps Using Frida](https://www.notsosecure.com/pentesting-android-apps-using-frida/)
 * [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 * [Mobile Application Penetration Testing Cheat Sheet](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
@@ -230,5 +237,5 @@
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
     
    
-
+# Bug Bounty & Writeup
     
