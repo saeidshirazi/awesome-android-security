@@ -218,6 +218,8 @@
    
 # Bug Bounty & Writeup
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
+* [Arbitrary code execution on Facebook for Android through download feature
+](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 
 
 # Cheat Sheet 
