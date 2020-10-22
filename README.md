@@ -21,6 +21,7 @@
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 - [Cheat Sheet](#Cheat-Sheet)
 # Blog
+* [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
 * [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
