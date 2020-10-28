@@ -55,6 +55,7 @@
 # Paper
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
 * [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
+* [Dual-Level Android Malware Detection](https://www.mdpi.com/2073-8994/12/7/1128)
 
    
 # Books
