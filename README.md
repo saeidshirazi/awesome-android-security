@@ -20,6 +20,8 @@
 - [Misc](#misc)
 - [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
 - [Cheat Sheet](#Cheat-Sheet)
+- [Checklist](#Checklist)
+
 # Blog
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
