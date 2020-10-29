@@ -77,7 +77,6 @@
 # Course
  
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
-* [Mobile Application Security and Penetration Testing](https://www.elearnsecurity.com/course/mobile_application_security_and_penetration_testing/)
 * [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
 * [Learn the art of mobile app development](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)
 * [Learning Android Malware Analysis](https://www.linkedin.com/learning/learning-android-malware-analysis)
