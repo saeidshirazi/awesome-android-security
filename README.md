@@ -75,7 +75,8 @@
 
  
 # Course
- 
+
+* [Android Reverse Engineering_pt-BR](https://www.youtube.com/watch?v=eHdDS2e_qf0&list=PL4zZ9lJ-RCbfv6f6Jc8cJ4ljKqENkTfi7) 
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
 * [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
 * [Learn the art of mobile app development](https://www.edx.org/professional-certificate/harvardx-computer-science-and-mobile-apps)
