@@ -233,5 +233,5 @@
 # Checklist
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
 # Bug Bounty Report 
-* [list of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
+* [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
 * [How to report security issues](https://source.android.com/security/overview/updates-resources#report-issues)
