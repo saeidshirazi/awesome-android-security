@@ -44,6 +44,7 @@
 * [Practical Android Phone Forensics](https://resources.infosecinstitute.com/practical-android-phone-forensics/)
 * [Mobile Pentesting With Frida](https://drive.google.com/file/d/1JccmMLi6YTnyRrp_rk6vzKrUX3oXK_Yw/view)
 * [Zero to Hero - Mobile Application Testing - Android Platform](https://nileshsapariya.blogspot.com/2016/11/zero-to-hero-mobile-application-testing.html)
+* [Detecting Dynamic Loading in Android Applications](https://sayfer.io/blog/dynamic-loading-in-android-applications-with-proc-maps/)
 
 # How To's
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
