@@ -161,6 +161,8 @@
 * [apk and dex decompilation back to Java source code](http://www.decompiler.com/)
 * [APK Decompiler Tools](https://apk.tools/tools/apk-decompiler/alternateURL/)
 
+#### Forensic Analysis
+* [Forensic Analysis for Mobile Apps (FAMA)](https://github.com/labcif/FAMA)
 # Labs
   
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
