@@ -73,7 +73,7 @@
  * [Android Malware and Analysis](https://www.oreilly.com/library/view/android-malware-and/9781482252200/)
  * [Android Security: Attacks and Defenses](https://www.crcpress.com/Android-Security-Attacks-and-Defenses/Misra-Dubey/p/book/9780367380182)
  * [Learning Penetration Testing For Android Devices](https://www.amazon.com/Learning-Penetration-Testing-Android-Devices-ebook/dp/B077L7SNG8)
-
+* [Android Hacking 2020 Edition](https://www.amazon.com/Hacking-Android-TERRY-D-CLARK-ebook/dp/B08MD2D1SJ)
 
  
 # Course
