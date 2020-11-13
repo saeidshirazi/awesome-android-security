@@ -15,6 +15,7 @@
   * [Dynamic Analysis Tools](#Dynamic-Analysis)
   * [Online APK Analyzers](#Online-APK-Analyzers)
   * [Online APK Decompiler](#Online-APK-Decompiler)
+  * [Forensic Analysis Tools](#Forensic-Analysis)
 - [Labs](#labs)
 - [Talks](#talks)
 - [Misc](#misc)
