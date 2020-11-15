@@ -25,6 +25,8 @@
 - [Bug Bounty Report](#Bug-Bounty-Report)
 
 # Blog
+* [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+* [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
 * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
 * [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
@@ -164,6 +166,12 @@
 
 #### Forensic Analysis
 * [Forensic Analysis for Mobile Apps (FAMA)](https://github.com/labcif/FAMA)
+* [Andriller](https://github.com/den4uk/andriller)
+* [Autopsy](https://www.autopsy.com/)
+* [bandicoot](https://github.com/computationalprivacy/bandicoot)
+* [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump)
+* [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME)
+
 # Labs
   
 * [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
