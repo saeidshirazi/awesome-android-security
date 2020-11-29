@@ -94,6 +94,8 @@
      
 #### Static Analysis
 
+* [Android Reverse Engineering WorkBench for VS Code
+](https://github.com/Surendrajat/APKLab)
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
 * [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
 
