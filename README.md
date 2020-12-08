@@ -25,6 +25,7 @@
 - [Bug Bounty Report](#Bug-Bounty-Report)
 
 # Blog
+* [Deep Dive into an Obfuscation-as-a-Service for Android Malware](https://wwwstratosphereips.org/blog/2020/12/03/deep-dive-into-an-obfuscation-as-a-service-for-android-malware)
 * [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
 * [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
 * [AAPG - Android application penetration testing guide](https://nightowl131.github.io/AAPG/)
