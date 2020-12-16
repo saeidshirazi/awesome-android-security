@@ -95,6 +95,7 @@
      
 #### Static Analysis
 
+* [Deoptfuscator:Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator)
 * [Android Reverse Engineering WorkBench for VS Code
 ](https://github.com/Surendrajat/APKLab)
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
