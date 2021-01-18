@@ -26,6 +26,7 @@
 
 # Blog
 
+* [Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
 * [Getting root on a 4G LTE mobile hotspot](https://alex.studer.dev/2021/01/04/mw41-1)
 * [Exploiting new-era of Request forgery on mobile applications](http://dphoeniixx.com/2020/12/13-2/)
 * [Deep Dive into an Obfuscation-as-a-Service for Android Malware](https://wwwstratosphereips.org/blog/2020/12/03/deep-dive-into-an-obfuscation-as-a-service-for-android-malware)
