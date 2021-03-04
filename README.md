@@ -25,7 +25,8 @@
 - [Bug Bounty Report](#Bug-Bounty-Report)
 
 # Blog
-
+* [Reverse Engineering Clubhouse](https://www.klmlabs.co/blog/club-house-observations-th5x8)
+* [Escape the Chromium sandbox on Android Devices](https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/)
 * [Android Penetration Testing: Frida](https://www.hackingarticles.in/android-penetration-testing-frida/)
 * [Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
 * [Getting root on a 4G LTE mobile hotspot](https://alex.studer.dev/2021/01/04/mw41-1)
@@ -56,6 +57,8 @@
 * [Detecting Dynamic Loading in Android Applications](https://sayfer.io/blog/dynamic-loading-in-android-applications-with-proc-maps/)
 
 # How To's
+
+* [How to Bypasses Iframe Sandboxing](https://blog.confiant.com/malvertiser-scamclub-bypasses-iframe-sandboxing-with-postmessage-shenanigans-cve-2021-1801-1c998378bfba)
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 * [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
 * [How To Bypassing Android Anti-Emulation](https://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-I/)
