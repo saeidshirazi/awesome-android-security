@@ -25,6 +25,7 @@
 - [Bug Bounty Report](#Bug-Bounty-Report)
 
 # Blog
+* [Capture all android network traffic](https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/)
 * [Reverse Engineering Clubhouse](https://www.klmlabs.co/blog/club-house-observations-th5x8)
 * [Escape the Chromium sandbox on Android Devices](https://microsoftedge.github.io/edgevr/posts/yet-another-uaf/)
 * [Android Penetration Testing: Frida](https://www.hackingarticles.in/android-penetration-testing-frida/)
@@ -58,6 +59,7 @@
 
 # How To's
 
+* [How to analyze mobile malware: a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 * [How to Bypasses Iframe Sandboxing](https://blog.confiant.com/malvertiser-scamclub-bypasses-iframe-sandboxing-with-postmessage-shenanigans-cve-2021-1801-1c998378bfba)
 * [How To Configuring Burp Suite With Android Nougat](https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/)
 * [How To Bypassing Xamarin Certificate Pinning](https://www.gosecure.net/blog/2020/04/06/bypassing-xamarin-certificate-pinning-on-android/)
