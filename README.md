@@ -26,6 +26,7 @@
 
 # Blog
 
+* [How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse)
 * [Exploiting memory corruption vulnerabilities on Android + an example of such vulnerability in PayPal apps](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
 * [Capture all android network traffic](https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/)
 * [Reverse Engineering Clubhouse](https://www.klmlabs.co/blog/club-house-observations-th5x8)
