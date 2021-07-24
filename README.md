@@ -146,7 +146,7 @@
 #### Dynamic Analysis
 
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-* [Magisk v20.2 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk5)
+* [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
 * [Drozer](https://github.com/FSecureLABS/drozer)
