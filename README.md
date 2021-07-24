@@ -26,6 +26,8 @@
 
 # Blog
 
+* [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
+* [Two weeks of securing Samsung devices: Part 1](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 * [How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse)
 * [Exploiting memory corruption vulnerabilities on Android + an example of such vulnerability in PayPal apps](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
 * [Capture all android network traffic](https://www.exandroid.dev/2021/03/21/capture-all-android-network-traffic/)
