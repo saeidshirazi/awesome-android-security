@@ -271,7 +271,8 @@
 
 # Checklist
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
-* [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
+* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
+* [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 
 # Bug Bounty Report 
 * [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
