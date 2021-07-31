@@ -99,6 +99,7 @@
  
 # Course
 
+* [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
 * [Android Reverse Engineering_pt-BR](https://www.youtube.com/watch?v=eHdDS2e_qf0&list=PL4zZ9lJ-RCbfv6f6Jc8cJ4ljKqENkTfi7) 
 * [Learning-Android-Security](https://www.lynda.com/Android-tutorials/Learning-Android-Security/689762-2.html)
 * [Advanced Android Development](https://developer.android.com/courses/advanced-training/overview)
@@ -151,6 +152,7 @@
 * [Magisk v23.0 - Root & Universal Systemless Interface](https://github.com/topjohnwu/Magisk)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 * [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house)
+* [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
 * [Drozer](https://github.com/FSecureLABS/drozer)
 * [Inspeckage](https://github.com/ac-pm/Inspeckage)
@@ -270,7 +272,8 @@
 
 # Checklist
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
-* [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
+* [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
+* [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 
 # Bug Bounty Report 
 * [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
