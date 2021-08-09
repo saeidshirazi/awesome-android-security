@@ -238,6 +238,8 @@
 * [Advanced Android Bug Bounty skills](https://www.youtube.com/watch?v=OLgmPxTHLuY)
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
+* [Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://www.youtube.com/watch?v=U6qTcpCfuFc)
+* [Bad Binder: Finding an Android In The Wild 0day](https://www.youtube.com/watch?v=TAwQ4ezgEIo)
   
 # Misc
 
