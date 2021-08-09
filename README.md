@@ -240,6 +240,7 @@
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
 * [Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://www.youtube.com/watch?v=U6qTcpCfuFc)
 * [Bad Binder: Finding an Android In The Wild 0day](https://www.youtube.com/watch?v=TAwQ4ezgEIo)
+* [Deep dive into ART(Android Runtime) for dynamic binary analysis](https://www.youtube.com/watch?v=mFq0vNvUgj8)
   
 # Misc
 
