@@ -114,11 +114,9 @@
 #### Static Analysis
 
 * [Deoptfuscator - Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator)
-* [Android Reverse Engineering WorkBench for VS Code
-](https://github.com/Surendrajat/APKLab)
+* [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab)
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
 * [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
-
 * [DeGuard:Statistical Deobfuscation for Android](http://apk-deguard.com/)
 * [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
 * [Amandroid – A Static Analysis Framework](http://pag.arguslab.org/argus-saf)
@@ -237,6 +235,7 @@
 * [Unleashing D* on Android Kernel Drivers](https://www.youtube.com/watch?v=1XavjjmfZAY)
 * [The Smarts Behind Hacking Dumb Devices](https://www.youtube.com/watch?v=yU1BrY1ZB2o)
 * [Overview of common Android app vulnerabilities](https://www.bugcrowd.com/resources/webinars/overview-of-common-android-app-vulnerabilities/)
+* [Advanced Android Bug Bounty skills](https://www.youtube.com/watch?v=OLgmPxTHLuY)
 * [Android security architecture](https://www.youtube.com/watch?v=3asW-nBU-JU)
 * [Get the Ultimate Privilege of Android Phone](https://vimeo.com/335948808)
   
