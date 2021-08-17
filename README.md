@@ -163,6 +163,7 @@
         
 #### Online APK Analyzers
 
+* [Guardsquare AppSweep](https://www.guardsquare.com/appsweep-mobile-application-security-testing)
 * [Oversecured](https://oversecured.com/)
 * [Android Observatory APK Scan](https:/androidobservatory.org/upload)
 * [AndroTotal](http://andrototal.org/)
