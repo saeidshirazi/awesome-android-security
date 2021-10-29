@@ -26,6 +26,7 @@
 
 # Blog
 
+* [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * [Two weeks of securing Samsung devices: Part 2](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
 * [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
