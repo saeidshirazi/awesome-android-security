@@ -67,6 +67,9 @@
 * [Detecting Dynamic Loading in Android Applications](https://sayfer.io/blog/dynamic-loading-in-android-applications-with-proc-maps/)
 * [Static Analysis for Android and iOS](https://pentestwiki.org/static-analysis-for-android-and-ios)
 * [Dynamic Analysis for Android and iOS](https://pentestwiki.org/dynamic-analysis-for-android-and-ios)
+* [Exploring intent-based Android security vulnerabilities on Google Play (part 1/3)](https://snyk.io/blog/exploring-android-intent-based-security-vulnerabilities-google-play/)
+* [Hunting intent-based Android security vulnerabilities with Snyk Code (part 2/3)](https://snyk.io/blog/hunting-intent-based-android-security-vulnerabilities-with-snyk-code/)
+* [Mitigating and remediating intent-based Android security vulnerabilities (part 3/3)](https://snyk.io/blog/mitigating-remediating-intent-based-android-security-vulnerabilities/)
 
 # How To's
 
