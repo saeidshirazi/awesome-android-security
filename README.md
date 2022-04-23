@@ -26,6 +26,7 @@
 
 # Blog
 
+* [Step-by-step guide to reverse an APK protected with DexGuard using Jadx](https://blog.lexfo.fr/dexguard.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 * [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
