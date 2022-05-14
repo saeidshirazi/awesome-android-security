@@ -26,6 +26,7 @@
 
 # Blog
 
+* [Reversing an Android sample which uses Flutter](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 * [Step-by-step guide to reverse an APK protected with DexGuard using Jadx](https://blog.lexfo.fr/dexguard.html)
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 * [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
