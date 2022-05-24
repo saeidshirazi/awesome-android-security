@@ -7,9 +7,9 @@
 # Table of Contents
 - [Blog](#blog)
 - [How To's](#how-tos)
-- [Paper](#paper)
+- [Papers](#paper)
 - [Books](#books)
-- [Course](#course)
+- [Trainings](#Trainings)
 - [Tools](#tools)
   * [Static Analysis Tools](#Static-Analysis)
   * [Dynamic Analysis Tools](#Dynamic-Analysis)
@@ -24,7 +24,7 @@
 - [Checklist](#Checklist)
 - [Bug Bounty Report](#Bug-Bounty-Report)
 
-# Blog
+# Blogs
 
 * [Protecting Android users from 0-Day attacks](https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/)
 * [Reversing an Android sample which uses Flutter](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
@@ -87,7 +87,7 @@
 * [Magisk Systemless Root - Detection and Remediation](https://www.mobileiron.com/en/blog/magisk-android-rooting)
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 
-# Paper
+# Papers
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
 * [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
 * [Dual-Level Android Malware Detection](https://www.mdpi.com/2073-8994/12/7/1128)
@@ -107,7 +107,7 @@
 * [Android Hacking 2020 Edition](https://www.amazon.com/Hacking-Android-TERRY-D-CLARK-ebook/dp/B08MD2D1SJ)
 
  
-# Course
+# Trainings
 
 * [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/)
 * [Android Reverse Engineering_pt-BR](https://www.youtube.com/watch?v=eHdDS2e_qf0&list=PL4zZ9lJ-RCbfv6f6Jc8cJ4ljKqENkTfi7) 
@@ -272,7 +272,7 @@
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
     
    
-# Bug Bounty & Writeup
+# Bug Bounty & Writeups
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [Arbitrary code execution on Facebook for Android through download feature](https://medium.com/@dPhoeniixx/arbitrary-code-execution-on-facebook-for-android-through-download-feature-fb6826e33e0f)
 
@@ -283,11 +283,11 @@
 * [ADB (Android Debug Bridge) Cheat Sheet](https://www.mobileqaengineer.com/blog/2020/2/4/adb-android-debug-bridge-cheat-sheet)
 * [Frida Cheatsheet and Code Snippets for Android](https://erev0s.com/blog/frida-code-snippets-for-android/)
 
-# Checklist
+# Checklists
 * [Android Pentesting Checklist](https://mobexler.com/checklist.htm#android)
 * [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 
-# Bug Bounty Report 
+# Bug Bounty Reports 
 * [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
 * [How to report security issues](https://source.android.com/security/overview/updates-resources#report-issues)
