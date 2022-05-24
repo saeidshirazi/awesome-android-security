@@ -26,6 +26,7 @@
 
 # Blog
 
+* [Android security checklist: theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
 * [Protecting Android users from 0-Day attacks](https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/)
 * [Reversing an Android sample which uses Flutter](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 * [Step-by-step guide to reverse an APK protected with DexGuard using Jadx](https://blog.lexfo.fr/dexguard.html)
