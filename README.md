@@ -26,6 +26,7 @@
 
 # Blogs
 
+* [Analysis of Android banking Trojan MaliBot that is based on S.O.V.A banker](https://www.f5.com/labs/articles/threat-intelligence/f5-labs-investigates-malibot)
 * [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
 * [Android security checklist: theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
 * [Protecting Android users from 0-Day attacks](https://blog.google/threat-analysis-group/protecting-android-users-from-0-day-attacks/)
