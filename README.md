@@ -167,6 +167,7 @@
 * [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
 * [Drozer](https://github.com/FSecureLABS/drozer)
+* [Slicer-automate APK Recon](https://github.com/mzfr/slicer)
 * [Inspeckage](https://github.com/ac-pm/Inspeckage)
 * [PATDroid - Collection of tools and data structures for analyzing Android applications](https://github.com/mingyuan-xia/PATDroid)
 * [Radare2 - Unix-like reverse engineering framework and commandline tools](https://github.com/radareorg/radare2)
