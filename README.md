@@ -26,6 +26,7 @@
 
 # Blogs
 
+* [Technical analysis of Alien android malware](https://muha2xmad.github.io/malware-analysis/alien/)
 * [Lock Screen Bypass Exploit of Android Devices (CVE-2022–20006)](https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a)
 * [Analysis of Android banking Trojan MaliBot that is based on S.O.V.A banker](https://www.f5.com/labs/articles/threat-intelligence/f5-labs-investigates-malibot)
 * [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
