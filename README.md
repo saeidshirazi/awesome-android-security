@@ -128,9 +128,11 @@
      
 #### Static Analysis
 
+
 * [Deoptfuscator - Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator)
 * [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab)
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
+* [Defeat Java packers via Frida instrumentation](https://github.com/enovella/fridroid-unpacker)
 * [quark-engine - An Obfuscation-Neglect Android Malware Scoring System](https://github.com/quark-engine/quark-engine)
 * [DeGuard:Statistical Deobfuscation for Android](http://apk-deguard.com/)
 * [jadx - Dex to Java decompiler](https://github.com/skylot/jadx/releases)
