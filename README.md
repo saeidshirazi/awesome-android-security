@@ -283,10 +283,10 @@
 * [Chasing the Joker](https://docs.google.com/presentation/d/1sFGAERaNRuEORaH06MmZKeFRqpJo1ol1xFieUa1X_OA/edit#slide=id.p1)
 * [Side Channel Attacks in 4G and 5G Cellular Networks-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)
 * [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
-* [Popular Android Malware 2018](https://github.com/sk3ptre/AndroidMalware_2018)
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
-    
+* [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)   
+* [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022)       
    
 # Bug Bounty & Writeups
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
