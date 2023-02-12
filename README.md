@@ -94,6 +94,8 @@
 * [How to use FRIDA to bruteforce Secure Startup with FDE-encryption on a Samsung G935F running Android 8](https://github.com/Magpol/fridafde)
 
 # Papers
+
+* [A systematic analysis of commercial Android packers](https://dl.acm.org/doi/abs/10.1145/3540250.3558969)
 * [AndrODet: An adaptive Android obfuscation detector](https://arxiv.org/pdf/1910.06192.pdf)
 * [GEOST BOTNET - the discovery story of a new Android banking trojan](http://public.avast.com/research/VB2019-Garcia-etal.pdf)
 * [Dual-Level Android Malware Detection](https://www.mdpi.com/2073-8994/12/7/1128)
