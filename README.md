@@ -79,6 +79,7 @@
 * [Exploring intent-based Android security vulnerabilities on Google Play (part 1/3)](https://snyk.io/blog/exploring-android-intent-based-security-vulnerabilities-google-play/)
 * [Hunting intent-based Android security vulnerabilities with Snyk Code (part 2/3)](https://snyk.io/blog/hunting-intent-based-android-security-vulnerabilities-with-snyk-code/)
 * [Mitigating and remediating intent-based Android security vulnerabilities (part 3/3)](https://snyk.io/blog/mitigating-remediating-intent-based-android-security-vulnerabilities/)
+* [Strengthening Android Security: Mitigating Banking Trojan Threats](https://debugactiveprocess.medium.com/strengthening-android-security-mitigating-banking-trojan-threats-fe94ae9e2f02)
 
 # How To's
 
