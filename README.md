@@ -26,6 +26,10 @@
 
 # Blogs
 
+* [Bypass Instagram and Threads SSL pinning on Android](https://github.com/Eltion/Instagram-SSL-Pinning-Bypass)
+
+* [Reverse Engineering Android game Coin Hunt World and its communication protocol to cheat the app](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)
+
 * [Discovering vendor-specific vulnerabilities in Android](https://blog.oversecured.com/Discovering-vendor-specific-vulnerabilities-in-Android/)
 * [Technical analysis of Alien android malware](https://muha2xmad.github.io/malware-analysis/alien/)
 * [Lock Screen Bypass Exploit of Android Devices (CVE-2022–20006)](https://medium.com/maverislabs/lock-screen-bypass-exploit-of-android-devices-cve-2022-20006-604958fcee3a)
