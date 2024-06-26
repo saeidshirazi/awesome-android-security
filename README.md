@@ -26,6 +26,7 @@
 
 # Blogs
 
+* [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [20 Security Issues Found in Xiaomi Devices](https://blog.oversecured.com/20-Security-Issues-Found-in-Xiaomi-Devices/)
 * [Bypass Instagram and Threads SSL pinning on Android](https://github.com/Eltion/Instagram-SSL-Pinning-Bypass)
 * [Reverse Engineering Android game Coin Hunt World and its communication protocol to cheat the app](https://research.nccgroup.com/2023/05/31/reverse-engineering-coin-hunt-worlds-binary-protocol/)
