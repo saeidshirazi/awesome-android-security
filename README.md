@@ -26,6 +26,7 @@
 
 # Blogs
 
+* [Disclosure of 7 Android and Google Pixel Vulnerabilities](https://blog.oversecured.com/Disclosure-of-7-Android-and-Google-Pixel-Vulnerabilities/)
 * [1-click Exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [20 Security Issues Found in Xiaomi Devices](https://blog.oversecured.com/20-Security-Issues-Found-in-Xiaomi-Devices/)
 * [Bypass Instagram and Threads SSL pinning on Android](https://github.com/Eltion/Instagram-SSL-Pinning-Bypass)
