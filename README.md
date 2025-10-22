@@ -171,6 +171,7 @@
 * [Trueseeing – fast, accurate and resillient vulnerabilities scanner for Android apps](https://github.com/monolithworks/trueseeing)
 * [StaCoAn – crossplatform tool which aids developers, bugbounty hunters and ethical hackers](https://github.com/vincentcox/StaCoAn)
 * [APKScanner](https://github.com/n3k00n3/APKScanner)
+* [Vulert](Vulert.com) - Vulert can scan Gradle lockfiles gradle.lockfile to detect the existing vulnerabilities in your dependencies and monitor for future vulnerabilities as new CVEs emerge, this helps keep your Android apps safe from supply chain threats.
 * [Mobile Audit – Web application for performing Static Analysis and detecting malware in Android APKs](https://github.com/mpast/mobileAudit)
 * [mariana-trench - Our security focused static analysis tool for Android and Java applications.](https://github.com/facebook/mariana-trench)
 * [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)
