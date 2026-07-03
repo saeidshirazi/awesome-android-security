@@ -184,6 +184,7 @@
 * [House: A runtime mobile application analysis toolkit with a Web GUI](https://github.com/nccgroup/house)
 * [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
 * [NullKia](https://github.com/bad-antics/nullkia) - Mobile security framework supporting 18 manufacturers with baseband exploitation, TEE/TrustZone research, cellular security, and eSIM tools
+* [Spectre - Radio frequency scanner with recon and offensive capabilities](https://github.com/thomasbuilds/Spectre)
 * [Droid-FF - Android File Fuzzing Framework](https://github.com/antojoseph/droid-ff)
 * [Drozer](https://github.com/FSecureLABS/drozer)
 * [Slicer-automate APK Recon](https://github.com/mzfr/slicer)
