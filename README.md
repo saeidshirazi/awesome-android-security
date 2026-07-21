@@ -65,6 +65,7 @@
 * [Android Pentesting Labs - Step by Step guide for beginners](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [An Android Security tips](https://developer.android.com/training/articles/security-tips)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
 * [OWASP Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 * [Security Testing for Android Cross Platform Application](https://3xpl01tc0d3r.blogspot.com/2019/09/security-testing-for-android-app-part1.html)
 * [Dive deep into Android Application Security](https://blog.0daylabs.com/2019/09/18/deep-dive-into-Android-security/)
