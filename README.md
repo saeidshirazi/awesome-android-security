@@ -300,7 +300,8 @@
 * [Popular Android Malware 2019](https://github.com/sk3ptre/AndroidMalware_2019)
 * [Popular Android Malware 2020](https://github.com/sk3ptre/AndroidMalware_2020)    
 * [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)   
-* [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022)       
+* [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022)
+* [Airgate](https://github.com/heyaibi/airgate) - Offline Device-Owner watchdog for pentesting air-gapped Android posture — monitors 14 wireless/USB/system-tamper signals (Wi-Fi, Bluetooth, USB tethering/data/OTG, ADB, SIM/clock) with reactive hardening and factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku/DevicePolicyManager), GPL-3.0.
    
 # Bug Bounty & Writeups
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
