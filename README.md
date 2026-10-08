@@ -5,24 +5,24 @@
 
 
 # Table of Contents
-- [Blog](#blog)
+- [Blog](#blogs)
 - [How To's](#how-tos)
-- [Papers](#paper)
+- [Papers](#papers)
 - [Books](#books)
-- [Trainings](#Trainings)
+- [Trainings](#trainings)
 - [Tools](#tools)
-  * [Static Analysis Tools](#Static-Analysis)
-  * [Dynamic Analysis Tools](#Dynamic-Analysis)
-  * [Online APK Analyzers](#Online-APK-Analyzers)
-  * [Online APK Decompiler](#Online-APK-Decompiler)
-  * [Forensic Analysis Tools](#Forensic-Analysis)
+  * [Static Analysis Tools](#static-analysis)
+  * [Dynamic Analysis Tools](#dynamic-analysis)
+  * [Online APK Analyzers](#online-apk-analyzers)
+  * [Online APK Decompiler](#online-apk-decompiler)
+  * [Forensic Analysis Tools](#forensic-analysis)
 - [Labs](#labs)
 - [Talks](#talks)
 - [Misc](#misc)
-- [Bug Bounty & Writeups](#Bug-Bounty-&-Writeup)
-- [Cheat Sheet](#Cheat-Sheet)
-- [Checklist](#Checklist)
-- [Bug Bounty Report](#Bug-Bounty-Report)
+- [Bug Bounty & Writeups](#bug-bounty--writeups)
+- [Cheat Sheet](#cheat-sheet)
+- [Checklist](#checklists)
+- [Bug Bounty Report](#bug-bounty-reports)
 
 # Blogs
 
