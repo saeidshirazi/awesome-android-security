@@ -234,6 +234,7 @@
 * [Fridump-A universal memory dumper using Frida](https://github.com/Nightbringer21/fridump)
 * [LiME - Linux Memory Extractor](https://github.com/504ensicsLabs/LiME)
 * [radio-triage - Android radio log triage with telephony event timeline and anomaly detection from logcat](https://github.com/0xPersist/radio-triage)
+* [MCP Guard - Windows desktop scanner that checks a USB-connected Android phone over ADB for stalkerware, malware packages and adware](https://github.com/Skeetcher111/mcp-guard)
 
 # Labs
 
