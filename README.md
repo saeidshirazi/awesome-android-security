@@ -302,6 +302,7 @@
 * [Popular Android Malware 2021](https://github.com/sk3ptre/AndroidMalware_2021)   
 * [Popular Android Malware 2022](https://github.com/sk3ptre/AndroidMalware_2022)
 * [Airgate](https://github.com/heyaibi/airgate) - Offline Device-Owner watchdog for pentesting air-gapped Android posture — monitors 14 wireless/USB/system-tamper signals (Wi-Fi, Bluetooth, USB tethering/data/OTG, ADB, SIM/clock) with reactive hardening and factory-reset wipe; 100% offline (no INTERNET permission, Dhizuku/DevicePolicyManager), GPL-3.0.
+* [APK SHA-256 Verifier](https://github.com/subwaysurfersmodgame/apk-sha256-verifier) - Browser-based SHA-256 calculator for APK files: the file is hashed on your device and never uploaded, so you can compare a download against the hash the publisher lists. It confirms the files match; it does not scan the app.
    
 # Bug Bounty & Writeups
 * [Hacker101 CTF: Android Challenge Writeups](https://medium.com/bugbountywriteup/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
