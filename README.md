@@ -175,6 +175,7 @@
 * [Mobile Audit – Web application for performing Static Analysis and detecting malware in Android APKs](https://github.com/mpast/mobileAudit)
 * [mariana-trench - Our security focused static analysis tool for Android and Java applications.](https://github.com/facebook/mariana-trench)
 * [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)
+* [ShipSentry - Local-first, zero-dependency scanner for common Android release configuration and source risks.](https://github.com/adamglin0/shipsentry)
       
 #### Dynamic Analysis
 
