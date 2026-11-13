@@ -142,6 +142,7 @@
 
 * [BlackDex is an Android unpack(dexdump) tool](https://github.com/CodingGay/BlackDex)
 * [Deoptfuscator - Deobfuscator for Android Application](https://github.com/Gyoonus/deoptfuscator)
+* [LLMObfuscDetection - LLM-based Android obfuscation detection and classification](https://github.com/Mobile-IoT-Security-Lab/LLMObfuscDetection) - An open-source research framework using Large Language Models to detect and classify code obfuscation techniques in Android applications.
 * [Android Reverse Engineering WorkBench for VS Code](https://github.com/Surendrajat/APKLab)
 * [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
 * [Defeat Java packers via Frida instrumentation](https://github.com/enovella/fridroid-unpacker)
