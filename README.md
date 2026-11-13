@@ -177,6 +177,7 @@
 * [mariana-trench - Our security focused static analysis tool for Android and Java applications.](https://github.com/facebook/mariana-trench)
 * [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)
 * [ShipSentry - Local-first, zero-dependency scanner for common Android release configuration and source risks.](https://github.com/adamglin0/shipsentry)
+* [FlutterGuard - Offline Flutter APK scanner for Android](https://github.com/anasfik/FlutterGuard) - Reads an installed Flutter app or APK on the device: manifest, compiled library, endpoints, exposed strings and dependency clues.
       
 #### Dynamic Analysis
 
