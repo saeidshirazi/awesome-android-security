@@ -198,6 +198,7 @@
 * [ByteCodeViewer - Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger)](https://bytecodeviewer.com/)
 * [MPT - Mobile Pentest Toolkit (MPT) is a must-have solution for your android penetration testing workflows.](https://github.com/ByteSnipers/mobile-pentest-toolkit)
 * [FlutterTap - Zygisk module that bypasses BoringSSL TLS pinning inside libflutter.so and redirects Flutter app traffic to a proxy, persistently and without a Frida session](https://github.com/script-or-script/FlutterTap)
+* [Mobilebox - Disposable cloud Android phones over API or MCP: install an APK, watch its screens, capture the hosts it contacts with PCAPdroid, then delete the phone](https://mobilebox.dev/blog/android-sandbox-apk-analysis)
 
 
         
